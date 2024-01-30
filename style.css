@@ -1,135 +1,135 @@
 * {
-  margin: 2px;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Arvo', serif;
-}
-.main {
-  height: 97vh;
-}
-.navbar a {
-  font-family: "Akaya Telivigala", cursive;
-  text-decoration: none;
-  color: #2c2c2c;
-}
-.navbar a:hover {
-  color: #000127;
-  border-bottom: 3px solid #010003;
-}
-.navbar ul {
-  list-style: none;
-  display: flex;
-  justify-content: space-around;
-  margin-left: 700px;
-  margin-top: -29px;
-  font-size: 25px;
-  font-weight: bold;
-}
-.navbar #logo {
-  font-size: 33px;
-  padding: 10px;
-  display: flex;
-  justify-content: space-between;
-  flex: 1;
-  color: #00192e;
-}
-#streak{
-  padding: -10px;
-}
-.img{
-  float: left;
-  margin: -170px -70px 40px 120px;
-}
-.title{
-  margin-top: 199px;
-  font-size: 34px;
-}
-.content{
-  font-size: 20px;
-  font-weight:lighter;
-}
-#data1{
-  float: left;
-  width:50%;
-  padding-left: 40px;
-  padding-right: 50px;
-  padding-top: 80px;
-  text-align: justify;
-  text-decoration: none;
-}
-#line{
-  margin-right: -20px;
-}
-#data2{
-  padding-left: 30px;
-}
-
-.form{
-  font-size: 20px;
-  padding:10px;
-  padding-top: 10px;
-  margin-left: 16%;
-}
-.input, .button{
-  padding: 5px;
-  height: 40px;
-  margin-top: 9px;
-  font-size: 10px;
-  width: 30%;
-  border-radius: 15px;
-  border:1px solid grey;
-}
-.button{
-  font-size: 20px;
-  border-radius: 20px;
-  background-color: rgb(254, 63, 0);
-  color: aliceblue;
-}
-.button:hover{
-  background-color: aliceblue;
-  color: rgb(254, 63, 0);
-  border: 2px solid rgb(254, 63, 0);
-  font-weight: bold;
-}
-#message{
-  height: 120px;
-}
-.data1{
-  margin-left: 190px;
-}
-.stat{
-  margin:5px;
-}
-.stat .data{
-  padding:3px;
-}
-#data3{
-  float: left;
-  width:45%;
-  padding-left: 40px;
-  text-align: justify;
-}
-#data4{
-  float: right;
-  margin-top: -750px;
-}
-.img2{
-  float: left;
-  margin-left: 90px;
-}
-.content2{
-  float: left;
-  margin-top: -220px;
-  margin-right: 140px;
-}
-.content3{
-  margin-top: 880px;
-}
-.content3 .button{
-  font-size: 20px;
-  border-radius: 20px;
-  background-color: rgb(254, 63, 0);
-  color: aliceblue;
-  width: 20%;
-  margin-left: 30px;
-}
+    margin: 2px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arvo', serif;
+  }
+  .main {
+    height: 97vh;
+  }
+  .navbar a {
+    font-family: "Akaya Telivigala", cursive;
+    text-decoration: none;
+    color: #2c2c2c;
+  }
+  .navbar a:hover {
+    color: #000127;
+    border-bottom: 3px solid #010003;
+  }
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 700px;
+    margin-top: -29px;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .navbar #logo {
+    font-size: 33px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex: 1;
+    color: #00192e;
+  }
+  #streak{
+    padding: -10px;
+  }
+  .img{
+    float: left;
+    margin: -170px -70px 40px 120px;
+  }
+  .title{
+    margin-top: 199px;
+    font-size: 34px;
+  }
+  .content{
+    font-size: 20px;
+    font-weight:lighter;
+  }
+  #data1{
+    float: left;
+    width:50%;
+    padding-left: 40px;
+    padding-right: 50px;
+    padding-top: 80px;
+    text-align: justify;
+    text-decoration: none;
+  }
+  #line{
+    margin-right: -20px;
+  }
+  #data2{
+    padding-left: 30px;
+  }
+  
+  .form{
+    font-size: 20px;
+    padding:10px;
+    padding-top: 10px;
+    margin-left: 16%;
+  }
+  .input, .button{
+    padding: 5px;
+    height: 40px;
+    margin-top: 9px;
+    font-size: 10px;
+    width: 30%;
+    border-radius: 15px;
+    border:1px solid grey;
+  }
+  .button{
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: rgb(254, 63, 0);
+    color: aliceblue;
+  }
+  .button:hover{
+    background-color: aliceblue;
+    color: rgb(254, 63, 0);
+    border: 2px solid rgb(254, 63, 0);
+    font-weight: bold;
+  }
+  #message{
+    height: 120px;
+  }
+  .data1{
+    margin-left: 190px;
+  }
+  .stat{
+    margin:5px;
+  }
+  .stat .data{
+    padding:3px;
+  }
+  #data3{
+    float: left;
+    width:45%;
+    padding-left: 40px;
+    text-align: justify;
+  }
+  #data4{
+    float: right;
+    margin-top: -750px;
+  }
+  .img2{
+    float: left;
+    margin-left: 90px;
+  }
+  .content2{
+    float: left;
+    margin-top: -220px;
+    margin-right: 140px;
+  }
+  .content3{
+    margin-top: 880px;
+  }
+  .content3 .button{
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: rgb(254, 63, 0);
+    color: aliceblue;
+    width: 20%;
+    margin-left: 30px;
+  }
